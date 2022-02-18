@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="914612b7-1535-4d98-aceb-00fbc9094716" name="Torchssc">
+        <fileTransfer rootFolder="/ssd/lyding" accessType="SFTP" host="10.26.10.105" port="22" sshConfigId="d1bdee0e-3b0e-4bf4-a770-2d7a0084a13b" sshConfig="lyding@10.26.10.105:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

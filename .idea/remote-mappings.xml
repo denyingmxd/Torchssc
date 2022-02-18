@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sshConfig://lyding@10.26.10.105:22 password/ssd/lyding/anaconda3/envs/torchssc/bin/python" />
+      </list>
+    </list>
+  </component>
+</project>
